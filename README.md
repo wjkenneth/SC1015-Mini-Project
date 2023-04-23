@@ -26,6 +26,7 @@ Team 9: Audric & Kenneth
     -  [SHAP and LIME](#shap-and-lime)
     -  [Insights and Conclusions](#insights-and-conclusions)
 - [Closing Remarks](#closing-remarks)
+- [Video](#video)
 
 # Welcome Message
 
@@ -248,6 +249,8 @@ efforts and collaboration throughout the project and our TA for his advice and q
 has been a great experience, it allowed us to learn many new concepts and ideas. Although, this the end of our Mini-Project,
 the takeaways from this project will stay with us for life.
 
+# Video
+[1015 Mini Project](https://www.youtube.com/watch?v=O-aoSIKnv8A)
 
 # References
 - https://www.singstat.gov.sg
