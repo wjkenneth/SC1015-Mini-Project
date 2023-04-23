@@ -26,7 +26,7 @@ Team 9: Audric & Kenneth
     -  [SHAP and LIME](#shap-and-lime)
     -  [Insights and Conclusions](#insights-and-conclusions)
 - [Closing Remarks](#closing-remarks)
-- [Video](#video)
+- [Video and Presentation Slides](#video-and-presentation-slides)
 
 # Welcome Message
 
