@@ -219,16 +219,16 @@ important in affecting the change in live birth number.
 From this Mini-Project we can draw a few conclusion:
 
 1. Symptoms of the live birth number are useful in predicting how the live birth numbers change in the future. Some of these include:
-- Fertility Rate
-- Infant Death Number
+    - Fertility Rate
+    - Infant Death Number
 These variables can be added into the model when we want to predict how the live birth number change in the future.
 
 2. Multiple factors all affects the live birth numbers and a few of them include
-- Inflation Rate
-- Median Income
-- Residents Aged 20-39
-- Female Marriage Rate
-- Number of Resale Houses Sold
+    - Inflation Rate
+    - Median Income
+    - Residents Aged 20-39
+    - Female Marriage Rate
+    - Number of Resale Houses Sold
 These variables are the one we should aim to tackle and focus on to improve the live birth number.
 
 We also realised a few fatal limitation in our project which affects the reliablility of our results. They are:
