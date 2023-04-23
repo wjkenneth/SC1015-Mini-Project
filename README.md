@@ -10,7 +10,7 @@ Team 9: Audric & Kenneth
 - [Dataset Selection & Preparation](#dataset-selection--preparation)
     - [SingStats](https://www.singstat.gov.sg/find-data/search-by-theme?type=all)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-    - [EDA file](../EDA )
+    - [EDA file](../tree/main/EDA )
     - [General Trend](#general-trend)
     - [Causes and Symptoms](#causes-and-symptoms)
     - [Linear Regression](#linear-regression)
