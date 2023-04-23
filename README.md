@@ -250,8 +250,8 @@ has been a great experience, it allowed us to learn many new concepts and ideas.
 the takeaways from this project will stay with us for life.
 
 # Video and Presentation Slides
-[1015 Mini Project](https://www.youtube.com/watch?v=O-aoSIKnv8A)
-[Presentation Slides](https://github.com/wjkenneth/SC1015-Mini-Project/blob/main/Presentation%20Slides.pdf)
+- [1015 Mini Project](https://www.youtube.com/watch?v=O-aoSIKnv8A)
+- [Presentation Slides](https://github.com/wjkenneth/SC1015-Mini-Project/blob/main/Presentation%20Slides.pdf)
 
 # References
 - https://www.singstat.gov.sg
