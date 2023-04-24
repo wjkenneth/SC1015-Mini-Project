@@ -40,8 +40,8 @@ not have been possible without his valuable feedback and expertise in the field 
 
 | Name              |                     Area of Focus                     |GitHub Acount|
 |:---:|:---:|---|
-| Audric |        Singstats Dataset, EDA, Machine Learning        |[@audd-ho](github.com/audd-ho)|
-| Kenneth |     Video Presentation, GitHub Repository, EDA      |[@wjkenneth](github.com/wjkenneth)|
+| Audric |        Singstats Dataset, EDA, Machine Learning        |[@audd-ho](https://github.com/audd-ho)|
+| Kenneth |     Video Presentation, GitHub Repository, EDA      |[@wjkenneth](https://github.com/wjkenneth)|
 
 # Question/Problem Definition
 
